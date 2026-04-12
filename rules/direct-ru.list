@@ -1,18 +1,36 @@
 # NAME: direct-ru
 # UPDATED: 2026-04-12
-# TOTAL: 261
+# TOTAL: 303
+GEOIP,RU
+DOMAIN-SUFFIX,.ru
+DOMAIN-SUFFIX,.su
+DOMAIN-SUFFIX,.рф
+DOMAIN-SUFFIX,.xn--p1ai
 DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,kremlin.ru
 DOMAIN-SUFFIX,nalog.ru
 DOMAIN-SUFFIX,music.vk.com
 DOMAIN-SUFFIX,music.vk.ru
 DOMAIN-SUFFIX,vk.ru
 DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vkcloud.ru
+DOMAIN-SUFFIX,hb.vkcloud-storage.ru
+DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,max-app.ru
 DOMAIN-SUFFIX,dev.max.ru
+DOMAIN-SUFFIX,web.max.ru
+DOMAIN-SUFFIX,st.max.ru
+DOMAIN-SUFFIX,legal.max.ru
+DOMAIN-SUFFIX,oneme.ru
+DOMAIN-SUFFIX,ws-api.oneme.ru
+DOMAIN-SUFFIX,i.oneme.ru
 DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,cdnvideo.com
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,selectel.ru
 DOMAIN-SUFFIX,selectel.live
+DOMAIN-SUFFIX,selcdn.net
 DOMAIN-SUFFIX,edgecenter.ru
 DOMAIN-SUFFIX,1c-bitrix.ru
 DOMAIN-SUFFIX,calls.okcdn.ru
@@ -151,6 +169,14 @@ DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,ivi.ru
 DOMAIN-SUFFIX,2gis.ru
 DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,bk.ru
+DOMAIN-SUFFIX,list.ru
+DOMAIN-SUFFIX,inbox.ru
+DOMAIN-SUFFIX,internet.ru
+DOMAIN-SUFFIX,cloud.mail.ru
+DOMAIN-SUFFIX,biz.mail.ru
+DOMAIN-SUFFIX,corp.mail.ru
+DOMAIN-SUFFIX,id.mail.ru
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,samokat.ru
@@ -200,6 +226,12 @@ DOMAIN-SUFFIX,cdn.wink.ru
 DOMAIN-SUFFIX,api.wink.ru
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,rambler.ru
+DOMAIN-SUFFIX,ro.ru
+DOMAIN-SUFFIX,lenta.ru
+DOMAIN-SUFFIX,r0.ru
+DOMAIN-SUFFIX,myrambler.ru
+DOMAIN-SUFFIX,autorambler.ru
+DOMAIN-SUFFIX,mail.rambler.ru
 DOMAIN-SUFFIX,reg.ru
 DOMAIN-SUFFIX,beget.ru
 DOMAIN-SUFFIX,kadastr.ru
@@ -254,12 +286,18 @@ DOMAIN-SUFFIX,city-mobil.ru
 DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,driver-city-mobil.taxi
 DOMAIN-SUFFIX,rustore.ru
+DOMAIN-SUFFIX,download.rustore.ru
 DOMAIN-SUFFIX,blablacar.ru
 DOMAIN-SUFFIX,blablacar.com
 DOMAIN-SUFFIX,internet.ya.ru
 DOMAIN-SUFFIX,speedtest.rt.ru
 DOMAIN-SUFFIX,openspeedtest.ru
 DOMAIN-SUFFIX,linkmeter.ru
+DOMAIN-SUFFIX,xmail.ru
+DOMAIN-SUFFIX,mailion.ru
+DOMAIN-SUFFIX,rupost.ru
+DOMAIN-SUFFIX,r7-office.ru
+DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,ip.mail.ru
 DOMAIN-SUFFIX,ipv4-internet.yandex.net
 DOMAIN-SUFFIX,ipv6-internet.yandex.net
